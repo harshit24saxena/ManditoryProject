@@ -1,0 +1,160 @@
+#order_container {
+  margin: auto;
+  width: 60%;
+}
+
+#order_container .order_heading {
+  margin-top: 0rem;
+}
+
+/* Main contents */
+.message_div {
+  margin-top: 30px;
+}
+
+.message_div .message {
+  background-color: rgb(74, 124, 89);
+  color: white;
+  word-spacing: 5px;
+  letter-spacing: 1px;
+  border: 2px solid rgb(39, 88, 56)(74, 124, 89);
+  border-radius: 5px;
+  padding: 2px;
+  width: 100%;
+  text-align: center;
+}
+
+.message_content_row {
+  border: 2px solid black;
+  background-color: #f5ebeb;
+  border-radius: 5px;
+}
+
+.dishImage_div {
+  margin: 5px;
+}
+
+.message_content_row {
+  display: flex;
+  align-items: center;
+}
+
+.dishImage_div .dish_image {
+  width: 180px;
+  margin-top: 2px;
+  margin-left: 4px;
+  height: 140px;
+  border: none;
+  border-radius: 5px;
+}
+
+.dishDetails {
+  display: flex;
+  align-items: center;
+}
+
+.dishInfo {
+  margin-left: 30px;
+  word-spacing: 1px;
+  font-size: 1.7rem;
+}
+.dishInfo label {
+  font-weight: bold;
+  font-size: 1.4rem;
+}
+
+.operationBtn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  left: 6rem;
+}
+
+.order_button button {
+  margin: 15px;
+  padding: 2px 16px;
+  border: none;
+  background: none;
+  /*background-color: rgb(211 193 186); */
+  background-color: rgb(33, 219, 42);
+  border-radius: 10px;
+  transition: all 0.8s ease;
+}
+
+.order_button button:hover {
+  background-color: rgba(85, 236, 15, 0.678);
+  border-radius: 10px;
+}
+
+.order_button button:active {
+  transform: scale(0.7);
+}
+
+.order_button button a {
+  font-family: "bree serif";
+  text-decoration: none;
+  color: red;
+  font-size: 1.6rem;
+}
+
+@media only screen and (max-width: 1280px) {
+  .message_content_row {
+    border: 2px solid black;
+    margin-top: 1px;
+    background-color: #f5ebeb;
+    border-radius: 5px;
+    height: 220px;
+  }
+  #order_container {
+    margin: auto;
+    width: 99%;
+  }
+
+  #header {
+    margin-left: -20vw;
+  }
+}
+
+@media only screen and (max-width: 788px) {
+  #header h1 {
+    font-size: 2rem;
+  }
+
+  .message_content_row {
+    flex-direction: column;
+    height: 224px;
+  }
+
+  .operationBtn {
+    position: relative;
+    left: 1rem;
+    top: -8px;
+  }
+}
+
+@media only screen and (max-width: 409px) {
+  #order_container h1 {
+    margin-top: 1rem;
+    margin-left: 15px;
+    font-size: 1.6rem;
+  }
+
+  .message_div .message {
+    font-size: 1.3rem;
+    word-spacing: 1px;
+  }
+  .dishImage_div .dish_image {
+    width: 171px;
+    margin-top: 0px;
+    margin-left: -11px;
+    height: 132px;
+    border: none;
+    border-radius: 5px;
+  }
+  .dishInfo {
+    margin-left: 1px;
+    word-spacing: 1px;
+    font-size: 1.5rem;
+  }
+}

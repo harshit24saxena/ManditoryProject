@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'signika negative';
+}
+
+html {
+  scroll-behavior: smooth;
+  font-family: "signika negative";
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+html,
+body {
+  height: 100%;
+  margin: 0;
+}
+
+#root {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}

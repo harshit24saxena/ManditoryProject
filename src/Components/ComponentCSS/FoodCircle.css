@@ -1,0 +1,63 @@
+/* ciecle food  */
+
+#show_circle_food {
+  width: 87%;
+  margin: 3rem auto;
+}
+#show_circle_food .show_food_heading {
+  font-family: "signika negative";
+
+  font-size: 1.8rem;
+  /* margin-top: 1%; */
+}
+#all_food_circle {
+    padding: 1.5rem 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(100px, 1fr)); /* Adjust the minmax values as needed */
+  gap: 20px; /* Adjust the gap between items */
+}
+
+#all_food_circle .circle_food {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.circle_food .circle_food_box:hover {
+  cursor: pointer;
+  transform: scale(1.04);
+}
+.circle_food .circle_food_box:active {
+  cursor: pointer;
+  transform: scale(0.999999);
+}
+#all_food_circle .circle_food .circle_food_box {
+  border: 2px solid rgb(126, 112, 112);
+  border-radius: 100%;
+  width: 100px;
+  height: 100px;
+  box-shadow: 0px 5px 15px rgba(0, 0, 0, 0.2); /* Adjust the shadow values as needed */
+}
+.food_name{
+  font-family: "signika negative";
+
+}
+.label {
+  margin: auto 26px;
+}
+
+
+@media (max-width: 600px) {
+  #all_food_circle {
+    grid-template-columns: repeat(auto-fill, minmax(62px, 1fr));
+    gap : 15px;
+}
+  #show_circle_food .show_food_heading {
+    font-size: 1.5rem;
+}
+  #all_food_circle .circle_food .circle_food_box {
+    width: 80px;
+    height: 80px;
+}
+}

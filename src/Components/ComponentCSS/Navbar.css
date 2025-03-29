@@ -1,0 +1,163 @@
+/* defining variable of colors */
+:root {
+  --main-bg: #4A7C59;
+  --main-color: #BFA78B;;
+}
+
+/* navbar design */
+#navbar {
+  position: sticky;
+  top: 0px;
+  min-height: 110px;
+  box-shadow: 0px 0px 6px 0px rgb(105, 235, 116);
+  display: flex;
+  align-items: center;
+  min-width: 100%;
+  background-color: var(--main-bg);
+  border: 2px solid rgb(120, 236, 131);
+  /* background-color: #E8EFE6; */
+  color: black;
+  z-index: 2; /* Increase z-index if necessary */
+}
+.nav_name {
+  font-size: 1.8rem;
+  font-weight: bold;
+  text-shadow: 2px 2px 4px #fffd90;
+}
+#navbar a {
+  text-decoration: none;
+}
+/* h1 is heading of navbar */
+#navbar a h1 {
+  font-size: 2.3rem;
+  color: black;
+}
+/* this is navbar left heading  */
+#heading {
+  align-items: center;
+  margin-left: 4vw;
+  cursor: pointer;
+  
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 2vw;
+}
+#heading h1 {
+  font-family: "signika negative";
+}
+/* this includes all navbar menu with ul */
+#menuBtns {
+  position: absolute;
+  right: 5vw;
+}
+
+nav ul {
+  z-index: 3;
+  display: flex;
+}
+/* icon which effect when responsive design */
+nav .menu-btn i {
+  display: none;
+  color: #fff;
+  font-size: 24px;
+}
+
+nav ul li {
+  font-family: 'bree serif';
+  list-style: none;
+  padding: 8px;
+}
+/* this is checkbox which use when responsive design */
+#click {
+  display: none;
+}
+/* design all anchor tag */
+nav ul li a {
+  text-decoration: none;
+  padding: 7px 9px;
+  cursor: pointer;
+  color: #fffd90;
+  font-size: 1.4rem;
+  border-radius: 6px;
+  transition: all 0.4s ease;
+  font-family: "signika negative";
+
+}
+
+nav ul li a:hover {
+  color: #1b1b1b;
+  background-color: white;
+}
+
+nav ul li #active {
+  color: #1b1b1b;
+  background-color: white;
+}
+nav ul li #active:active,
+nav ul li a:active {
+  background-color: rgb(233, 127, 127);
+}
+ #logo {
+  width: 60px;
+}
+
+
+/* responsive navbar */
+@media only screen and (max-width: 940px) {
+
+  #navbar a h1{
+    font-size: 2rem;
+  }
+  #heading {
+    gap: 3vw;
+}
+  #heading h1 {
+    margin-left: 0;
+  }
+
+  nav .menu-btn i {
+    display: block;
+    color: black;
+  }
+
+  nav ul {
+    position: fixed;
+    top:111px;
+    background-color: #111;
+    width: 100%;
+    display: block;
+    /* left: -100%; */
+    text-align: center;
+    transition: all 0.3s ease;
+    z-index: 1;
+  }
+
+  nav ul li {
+    margin: 14px 0px;
+  }
+  
+  nav ul li a {
+    color: white;
+    font-size: 22px;
+  }
+
+  #click {
+    display: block;
+    position: absolute;
+    right: 10vw;
+  }
+
+  #click {
+    display: none;
+  }
+
+  nav .menu-btn {
+    position: absolute;
+    right: 3vw;
+  }
+
+  #content h1 {
+    font-size: 1.6rem;
+  }
+}

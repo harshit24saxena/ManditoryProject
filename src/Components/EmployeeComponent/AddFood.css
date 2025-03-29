@@ -1,0 +1,180 @@
+#header {
+  margin-left: -105px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#header #mainHead h1 {
+  padding-top: 10px;
+  margin-left: 25px;
+  /* width: 300%; */
+  font-weight: bold;
+  font-size: 2.3rem;
+  /* margin: 12px 0px 12px 14px; */
+}
+
+#header #logo img {
+  height: 90px;
+}
+
+#searchBlock {
+  margin: auto 7%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#searchBlock #searchLogo img {
+  height: 15px;
+}
+
+#searchBlock input[type="text"] {
+  font-size: 1.3rem;
+  /* margin: 16px; */
+  margin-top: 15px;
+  text-align: left;
+  margin-left: -4rem;
+  border: 2px solid rebeccapurple;
+  border-radius: 25px 0 0 25px;
+  text-align: left;
+  width: 515px;
+  height: 50px;
+  padding-left: 22px;
+
+  /* font-family: Verdana, Geneva, Tahoma, sans-serif; */
+  font-family: "Bree serif", Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#searchBlock #searchBtn {
+  font-size: 1.2rem;
+  /* padding: 13px 0px ; */
+  height: 40px;
+  border-radius: 0 25px 25px 0;
+  font-family: "Bree serif", Verdana, Geneva, Tahoma, sans-serif;
+
+  position: relative;
+  border-radius: 0 25px 25px 0;
+  width: 100px;
+  height: 50px;
+  cursor: pointer;
+}
+
+/* when having  583 pixels */
+
+@media (max-width: 583px) {
+  #header {
+    margin-left: -81px;
+  }
+
+  #header #mainHead h1 {
+    margin-left: 14px;
+    font-size: 2rem;
+  }
+
+  #header #logo img {
+    height: 80px;
+  }
+
+  #heading h1 {
+    margin-bottom: 10px;
+    text-align: center;
+    font-size: 1.5rem;
+  }
+
+  input[type="text"]::placeholder {
+    font-size: 1rem;
+    font-family: "bree serif";
+  }
+
+  input[type="number"]::placeholder {
+    font-size: 1rem;
+    font-family: "bree serif";
+  }
+
+  #btnSubmit {
+    padding: 0px;
+    margin-top: -60px;
+    font-size: 1.3rem;
+  }
+}
+
+#content {
+  margin: auto;
+  width: 97%;
+  margin-top: 20px;
+  border: 2px solid black;
+  background: rgb(238, 234, 233);
+}
+
+#heading h1 {
+  text-align: center;
+}
+
+.form label {
+  font-size: 1.7rem;
+  margin: 18px;
+}
+
+input[type="text"],
+input[type="number"] {
+  padding: 10px;
+  width: 95%;
+  margin: 23px;
+  margin-bottom: 1.5rem;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-family: "bree serif";
+  font-size: 1.5rem;
+}
+
+input[type="text"]::placeholder {
+  font-size: 1.5rem;
+  font-family: "bree serif";
+}
+
+input[type="number"]::placeholder {
+  font-size: 1.5rem;
+  font-family: "bree serif";
+}
+
+input[type="number"],
+input[type="file" i] {
+  margin: 18px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+#checking {
+  margin: 20px;
+}
+
+#checking input[type="checkbox"],
+#checking label {
+  cursor: pointer;
+}
+
+input[type="submit"] {
+  cursor: pointer;
+  width: 100%;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+  background-color: rgb(231, 196, 196);
+  font-family: "bree serif";
+  font-size: 1.7rem;
+  color: rebeccapurple;
+}
+
+#submitBtn {
+  margin: 70px;
+}
+
+#submitBtn input[type="submit"]:hover {
+  background-color: rgb(231, 169, 169);
+}
+
+#submitBtn input[type="submit"]:active {
+  background-color: rgb(231, 196, 196);
+  transform: scale(0.99);
+}
