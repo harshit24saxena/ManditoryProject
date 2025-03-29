@@ -1,0 +1,251 @@
+Order ID,Item,Quantity,Order Time,Preparation Time (mins),Customer ID,Status,Queue Status,Token Number,Delivery Time
+1,Pizza,3,1900-01-01 12:44:31,45,1656,Completed,Picked Up,68,13:29:31
+2,Farmhouse Pizza,2,1900-01-01 11:26:55,36,2960,Completed,Picked Up,476,12:02:55
+3,Pizza,3,1900-01-01 13:25:13,45,2749,Completed,Picked Up,47,14:10:13
+4,Pizza,2,1900-01-01 12:16:07,30,2126,In Progress,Being Prepared,14,12:46:07
+5,Garlic Bread,3,1900-01-01 12:43:16,24,2442,Pending,In Queue,63,13:07:16
+6,Choco Lava Cake,1,1900-01-01 15:46:10,6,1083,Completed,Picked Up,392,15:52:10
+7,Burger,1,1900-01-01 16:03:49,10,1152,Pending,Picked Up,151,16:13:49
+8,Chicken Supreme Pizza,3,1900-01-01 14:56:13,57,2333,Completed,Picked Up,469,15:53:13
+9,Pizza,1,1900-01-01 12:56:50,15,2711,Pending,Picked Up,326,13:11:50
+10,Coffee,1,1900-01-01 14:14:28,5,2388,Completed,Picked Up,314,14:19:28
+11,Coffee,1,1900-01-01 10:27:32,5,2072,Pending,Picked Up,445,10:32:32
+12,Coffee,2,1900-01-01 16:48:46,10,1484,Pending,Picked Up,416,16:58:46
+13,White Pasta,2,1900-01-01 10:05:24,24,1605,Completed,Picked Up,279,10:29:24
+14,White Pasta,2,1900-01-01 15:04:25,24,2995,Pending,Picked Up,131,15:28:25
+15,Burger,2,1900-01-01 12:53:24,20,1401,Pending,Picked Up,422,13:13:24
+16,Garlic Bread,3,1900-01-01 12:25:37,24,2768,Pending,Picked Up,39,12:49:37
+17,Garlic Bread,1,1900-01-01 14:44:50,8,2945,In Progress,Being Prepared,456,14:52:50
+18,Farmhouse Pizza,1,1900-01-01 16:56:34,18,2750,Pending,Picked Up,186,17:14:34
+19,White Pasta,3,1900-01-01 14:38:51,36,1339,In Progress,Being Prepared,482,15:14:51
+20,Coffee,2,1900-01-01 14:14:39,10,1271,Completed,Picked Up,62,14:24:39
+21,Stuffed Garlic Bread,1,1900-01-01 11:23:52,10,2333,Completed,Picked Up,322,11:33:52
+22,Peppy Paneer Pizza,2,1900-01-01 10:22:42,34,2531,In Progress,Being Prepared,214,10:56:42
+23,Burger,1,1900-01-01 13:58:24,10,2952,In Progress,Being Prepared,431,14:08:24
+24,Coffee,3,1900-01-01 14:16:40,15,2203,Pending,Picked Up,170,14:31:40
+25,Burger,2,1900-01-01 16:31:41,20,1447,Completed,Picked Up,152,16:51:41
+26,Burger,3,1900-01-01 11:28:30,30,1561,In Progress,Being Prepared,172,11:58:30
+27,Spicy Wings,1,1900-01-01 14:46:29,12,1927,In Progress,Being Prepared,92,14:58:29
+28,Pizza,3,1900-01-01 14:41:14,45,2434,Completed,Picked Up,365,15:26:14
+29,Coffee,2,1900-01-01 15:57:21,10,1046,Completed,Picked Up,249,16:07:21
+30,Burger,2,1900-01-01 12:24:02,20,1039,In Progress,Being Prepared,368,12:44:02
+31,Garlic Bread,3,1900-01-01 13:12:39,24,2094,Pending,Picked Up,162,13:36:39
+32,Garlic Bread,3,1900-01-01 13:07:42,24,1808,Completed,Picked Up,439,13:31:42
+33,Pizza,3,1900-01-01 16:08:58,45,1388,In Progress,Being Prepared,74,16:53:58
+34,Pizza,3,1900-01-01 13:04:14,45,2838,Completed,Picked Up,364,13:49:14
+35,Coffee,3,1900-01-01 10:24:13,15,1337,Completed,Picked Up,292,10:39:13
+36,Choco Lava Cake,3,1900-01-01 12:12:22,18,1964,Completed,Picked Up,425,12:30:22
+37,Tandoori Paneer Pizza,3,1900-01-01 11:57:48,51,2718,Pending,Picked Up,171,12:48:48
+38,Tandoori Paneer Pizza,2,1900-01-01 12:23:06,34,2970,In Progress,Being Prepared,285,12:57:06
+39,Pizza,2,1900-01-01 10:24:39,30,1074,In Progress,Being Prepared,234,10:54:39
+40,Red Pasta,3,1900-01-01 16:05:59,42,1031,In Progress,Being Prepared,227,16:47:59
+41,Garlic Bread,1,1900-01-01 10:47:40,8,1651,Completed,Picked Up,335,10:55:40
+42,Garlic Bread,2,1900-01-01 11:33:02,16,1613,In Progress,Being Prepared,492,11:49:02
+43,Coffee,3,1900-01-01 13:06:15,15,1946,Pending,Picked Up,395,13:21:15
+44,Stuffed Garlic Bread,1,1900-01-01 16:24:35,10,2387,Pending,Picked Up,94,16:34:35
+45,Burger,2,1900-01-01 14:12:19,20,2014,Completed,Picked Up,44,14:32:19
+46,Garlic Bread,3,1900-01-01 15:02:47,24,2967,Completed,Picked Up,27,15:26:47
+47,Veg Extravaganza Pizza,2,1900-01-01 13:20:27,40,2075,In Progress,Being Prepared,487,14:00:27
+48,Pizza,3,1900-01-01 15:27:16,45,1025,Pending,Picked Up,414,16:12:16
+49,Pizza,3,1900-01-01 14:01:58,45,1160,Completed,Picked Up,158,14:46:58
+50,Garlic Bread,3,1900-01-01 10:55:32,24,2875,Completed,Picked Up,3,11:19:32
+51,Garlic Bread,1,1900-01-01 15:32:56,8,1060,Completed,Picked Up,353,15:40:56
+52,Veggie Supreme Pizza,2,1900-01-01 14:23:32,36,1353,Pending,Picked Up,88,14:59:32
+53,Garlic Bread,2,1900-01-01 14:55:49,16,1616,Pending,Picked Up,480,15:11:49
+54,Pizza,1,1900-01-01 10:30:55,15,1922,In Progress,Being Prepared,428,10:45:55
+55,Pizza,1,1900-01-01 14:10:48,15,2034,Pending,Picked Up,276,14:25:48
+56,Pizza,3,1900-01-01 12:51:57,45,2658,In Progress,Being Prepared,140,13:36:57
+57,Burger,1,1900-01-01 15:07:05,10,1750,Pending,In Queue,223,15:17:05
+58,Cheese Garlic Bread,3,1900-01-01 15:08:54,27,1097,Pending,In Queue,311,15:35:54
+59,Garlic Bread,2,1900-01-01 13:50:17,16,1139,In Progress,Being Prepared,406,14:06:17
+60,Coffee,2,1900-01-01 10:11:13,10,1403,In Progress,Being Prepared,379,10:21:13
+61,Pizza,3,1900-01-01 11:53:29,45,2532,Completed,Picked Up,334,12:38:29
+62,Pizza,3,1900-01-01 10:21:34,45,2173,In Progress,Being Prepared,133,11:06:34
+63,Garlic Bread,2,1900-01-01 13:09:22,16,1112,Pending,Picked Up,255,13:25:22
+64,Veg Extravaganza Pizza,1,1900-01-01 13:36:37,20,1711,Pending,Picked Up,245,13:56:37
+65,Veg Extravaganza Pizza,1,1900-01-01 14:00:28,20,1521,Completed,Picked Up,82,14:20:28
+66,Cheese Garlic Bread,2,1900-01-01 16:55:53,18,2418,In Progress,Being Prepared,40,17:13:53
+67,Garlic Bread,1,1900-01-01 14:53:53,8,1387,In Progress,Being Prepared,169,15:01:53
+68,Garlic Bread,3,1900-01-01 16:36:32,24,2336,In Progress,Being Prepared,360,17:00:32
+69,Farmhouse Pizza,1,1900-01-01 11:33:00,18,2476,Completed,Picked Up,247,11:51:00
+70,Garlic Bread,3,1900-01-01 16:00:07,24,1805,In Progress,Being Prepared,448,16:24:07
+71,Burger,1,1900-01-01 15:49:30,10,2089,Pending,Picked Up,141,15:59:30
+72,Pizza,2,1900-01-01 13:07:17,30,1086,Pending,Picked Up,362,13:37:17
+73,Burger,1,1900-01-01 15:03:11,10,1946,Pending,Picked Up,139,15:13:11
+74,Pizza,1,1900-01-01 11:48:40,15,1282,Pending,Picked Up,112,12:03:40
+75,Pizza,2,1900-01-01 11:09:17,30,1606,Completed,Picked Up,163,11:39:17
+76,Burger,3,1900-01-01 11:07:57,30,2733,Completed,Picked Up,303,11:37:57
+77,Coffee,2,1900-01-01 15:20:00,10,1657,Completed,Picked Up,351,15:30:00
+78,Spicy Wings,1,1900-01-01 14:21:25,12,2038,In Progress,Being Prepared,211,14:33:25
+79,Veggie Supreme Pizza,3,1900-01-01 12:07:42,54,2198,In Progress,Being Prepared,339,13:01:42
+80,Coffee,2,1900-01-01 15:03:11,10,1514,Pending,Picked Up,142,15:13:11
+81,Burger,1,1900-01-01 13:31:16,10,1261,Completed,Picked Up,235,13:41:16
+82,Garlic Bread,3,1900-01-01 15:41:18,24,2688,In Progress,Being Prepared,254,16:05:18
+83,Tandoori Paneer Pizza,2,1900-01-01 13:19:01,34,1191,Pending,In Queue,288,13:53:01
+84,Burger,2,1900-01-01 11:43:32,20,1841,Pending,Picked Up,376,12:03:32
+85,Choco Chip,2,1900-01-01 10:40:37,14,2276,Pending,Picked Up,175,10:54:37
+86,Burger,3,1900-01-01 16:23:27,30,2729,Completed,Picked Up,350,16:53:27
+87,Garlic Bread,2,1900-01-01 15:04:09,16,1580,Completed,Picked Up,106,15:20:09
+88,Peppy Paneer Pizza,3,1900-01-01 11:53:40,51,1050,Pending,Picked Up,264,12:44:40
+89,Choco Lava Cake,2,1900-01-01 15:44:37,12,2535,Pending,Picked Up,423,15:56:37
+90,Burger,3,1900-01-01 16:32:05,30,2396,Pending,Picked Up,66,17:02:05
+91,Garlic Bread,2,1900-01-01 15:05:54,16,1561,Pending,Picked Up,167,15:21:54
+92,Choco Lava Cake,3,1900-01-01 16:03:12,18,2344,In Progress,Being Prepared,57,16:21:12
+93,Coffee,2,1900-01-01 14:42:22,10,2940,Pending,Picked Up,273,14:52:22
+94,Peppy Paneer Pizza,1,1900-01-01 14:52:33,17,1193,Completed,Picked Up,356,15:09:33
+95,Coffee,2,1900-01-01 11:25:35,10,2465,In Progress,Being Prepared,411,11:35:35
+96,Pizza,1,1900-01-01 10:32:58,15,1182,Completed,Picked Up,316,10:47:58
+97,Cheese Garlic Bread,2,1900-01-01 15:43:11,18,1208,In Progress,Being Prepared,218,16:01:11
+98,Garlic Bread,3,1900-01-01 15:39:47,24,1123,Pending,Picked Up,194,16:03:47
+99,Garlic Bread,3,1900-01-01 12:20:06,24,2259,Completed,Picked Up,497,12:44:06
+100,Pizza,3,1900-01-01 14:25:37,45,1939,Pending,In Queue,145,15:10:37
+101,Choco Lava Cake,2,1900-01-01 10:55:25,12,1060,Pending,Picked Up,225,11:07:25
+102,Burger,2,1900-01-01 15:50:37,20,1533,In Progress,Being Prepared,374,16:10:37
+103,Coffee,2,1900-01-01 14:32:36,10,1969,Completed,Picked Up,341,14:42:36
+104,White Pasta,1,1900-01-01 13:37:09,12,2361,Completed,Picked Up,305,13:49:09
+105,Veggie Supreme Pizza,1,1900-01-01 12:55:33,18,2045,Pending,Picked Up,174,13:13:33
+106,Burger,2,1900-01-01 11:36:03,20,2876,Pending,Picked Up,500,11:56:03
+107,Pizza,3,1900-01-01 16:47:23,45,2453,Completed,Picked Up,183,17:32:23
+108,Burger,3,1900-01-01 13:35:41,30,1884,Pending,Picked Up,72,14:05:41
+109,Spicy Wings,3,1900-01-01 12:24:29,36,2828,In Progress,Being Prepared,403,13:00:29
+110,Burger,2,1900-01-01 15:10:46,20,2944,Completed,Picked Up,477,15:30:46
+111,Spicy Wings,1,1900-01-01 14:48:39,12,2202,Pending,Picked Up,496,15:00:39
+112,Coffee,3,1900-01-01 11:09:22,15,1848,In Progress,Being Prepared,61,11:24:22
+113,Spicy Wings,2,1900-01-01 15:23:19,24,1115,Pending,Picked Up,90,15:47:19
+114,White Pasta,1,1900-01-01 15:28:30,12,2260,In Progress,Being Prepared,209,15:40:30
+115,Garlic Bread,3,1900-01-01 12:14:40,24,1620,Pending,Picked Up,381,12:38:40
+116,Peppy Paneer Pizza,2,1900-01-01 11:42:36,34,1726,In Progress,Being Prepared,455,12:16:36
+117,Burger,1,1900-01-01 10:16:16,10,1429,In Progress,Being Prepared,310,10:26:16
+118,Stuffed Garlic Bread,1,1900-01-01 14:08:37,10,2845,In Progress,Being Prepared,394,14:18:37
+119,Red Pasta,3,1900-01-01 12:07:18,42,2503,In Progress,Being Prepared,221,12:49:18
+120,Coffee,2,1900-01-01 12:53:01,10,2885,Pending,Picked Up,95,13:03:01
+121,Burger,1,1900-01-01 13:39:57,10,1168,Pending,Picked Up,387,13:49:57
+122,Garlic Bread,2,1900-01-01 16:06:10,16,2264,In Progress,Being Prepared,124,16:22:10
+123,Garlic Bread,1,1900-01-01 11:25:27,8,2936,Pending,Picked Up,474,11:33:27
+124,Farmhouse Pizza,3,1900-01-01 15:59:47,54,1443,Pending,Picked Up,367,16:53:47
+125,Tandoori Paneer Pizza,3,1900-01-01 16:06:37,51,2659,Completed,Picked Up,250,16:57:37
+126,Farmhouse Pizza,2,1900-01-01 11:32:10,36,1277,Completed,Picked Up,19,12:08:10
+127,Pizza,2,1900-01-01 12:59:41,30,1763,Completed,Picked Up,188,13:29:41
+128,Coffee,2,1900-01-01 12:20:49,10,2657,In Progress,Being Prepared,313,12:30:49
+129,Veg Extravaganza Pizza,1,1900-01-01 14:59:17,20,2185,In Progress,Being Prepared,67,15:19:17
+130,Tandoori Paneer Pizza,1,1900-01-01 15:06:53,17,1783,In Progress,Being Prepared,253,15:23:53
+131,Pizza,2,1900-01-01 13:25:26,30,2471,Completed,Picked Up,347,13:55:26
+132,Peppy Paneer Pizza,2,1900-01-01 10:26:02,34,1656,Pending,Picked Up,280,11:00:02
+133,Garlic Bread,3,1900-01-01 11:04:30,24,2518,In Progress,Being Prepared,472,11:28:30
+134,Garlic Bread,3,1900-01-01 14:52:30,24,1327,Pending,Picked Up,102,15:16:30
+135,Margherita Pizza,1,1900-01-01 16:41:29,16,1616,Pending,Picked Up,137,16:57:29
+136,White Pasta,1,1900-01-01 16:08:18,12,2709,Pending,Picked Up,363,16:20:18
+137,White Pasta,2,1900-01-01 15:31:13,24,2732,In Progress,Being Prepared,229,15:55:13
+138,Burger,3,1900-01-01 11:21:19,30,2443,In Progress,Being Prepared,185,11:51:19
+139,Garlic Bread,3,1900-01-01 11:02:31,24,1241,In Progress,Being Prepared,390,11:26:31
+140,Coffee,2,1900-01-01 15:49:49,10,2175,Pending,Picked Up,34,15:59:49
+141,Veggie Supreme Pizza,1,1900-01-01 14:01:30,18,2709,Completed,Picked Up,391,14:19:30
+142,Garlic Bread,3,1900-01-01 10:12:38,24,2495,Completed,Picked Up,467,10:36:38
+143,Veg Extravaganza Pizza,2,1900-01-01 16:40:59,40,1350,Completed,Picked Up,129,17:20:59
+144,Margherita Pizza,2,1900-01-01 15:10:45,32,1371,In Progress,Being Prepared,393,15:42:45
+145,Cheese Garlic Bread,2,1900-01-01 11:34:38,18,2116,In Progress,Being Prepared,81,11:52:38
+146,Veg Extravaganza Pizza,3,1900-01-01 11:53:26,60,2671,Pending,Picked Up,462,12:53:26
+147,Pizza,3,1900-01-01 16:02:57,45,1002,Pending,In Queue,272,16:47:57
+148,Pizza,1,1900-01-01 11:02:54,15,2033,Pending,Picked Up,252,11:17:54
+149,Choco Chip,2,1900-01-01 15:54:52,14,1281,In Progress,Being Prepared,275,16:08:52
+150,Tandoori Paneer Pizza,1,1900-01-01 15:01:52,17,1595,Pending,In Queue,76,15:18:52
+151,Pizza,2,1900-01-01 10:51:14,30,1489,Completed,Picked Up,483,11:21:14
+152,Coffee,1,1900-01-01 16:51:57,5,2162,Pending,Picked Up,200,16:56:57
+153,Choco Lava Cake,3,1900-01-01 11:18:52,18,1915,Pending,Picked Up,283,11:36:52
+154,Pizza,3,1900-01-01 14:16:32,45,2986,In Progress,Being Prepared,438,15:01:32
+155,Coffee,2,1900-01-01 10:13:07,10,2873,Completed,Picked Up,236,10:23:07
+156,White Pasta,2,1900-01-01 11:58:25,24,1877,Completed,Picked Up,32,12:22:25
+157,Coffee,2,1900-01-01 10:36:51,10,2790,Completed,Picked Up,130,10:46:51
+158,Tandoori Paneer Pizza,1,1900-01-01 10:03:43,17,1714,In Progress,Being Prepared,366,10:20:43
+159,Garlic Bread,1,1900-01-01 13:58:10,8,1988,In Progress,Being Prepared,168,14:06:10
+160,Garlic Bread,3,1900-01-01 10:22:17,24,2328,Completed,Picked Up,266,10:46:17
+161,Coffee,1,1900-01-01 11:42:07,5,2956,Pending,In Queue,5,11:47:07
+162,Spicy Wings,1,1900-01-01 11:40:59,12,1085,Completed,Picked Up,407,11:52:59
+163,Red Pasta,2,1900-01-01 10:24:32,28,1603,In Progress,Being Prepared,258,10:52:32
+164,Pizza,2,1900-01-01 14:27:30,30,1800,In Progress,Being Prepared,138,14:57:30
+165,Coffee,1,1900-01-01 16:56:25,5,1474,Completed,Picked Up,490,17:01:25
+166,Peppy Paneer Pizza,2,1900-01-01 15:39:12,34,2761,Pending,Picked Up,382,16:13:12
+167,Garlic Bread,3,1900-01-01 13:48:28,24,1563,In Progress,Being Prepared,60,14:12:28
+168,Farmhouse Pizza,2,1900-01-01 15:02:22,36,2109,In Progress,Being Prepared,331,15:38:22
+169,Cheese Garlic Bread,3,1900-01-01 11:26:04,27,2819,In Progress,Being Prepared,50,11:53:04
+170,Veg Extravaganza Pizza,1,1900-01-01 10:34:14,20,2126,Pending,In Queue,354,10:54:14
+171,Coffee,2,1900-01-01 12:10:25,10,1290,In Progress,Being Prepared,20,12:20:25
+172,Garlic Bread,1,1900-01-01 13:03:08,8,2168,Pending,Picked Up,45,13:11:08
+173,Pizza,2,1900-01-01 14:40:26,30,2233,In Progress,Being Prepared,122,15:10:26
+174,Burger,2,1900-01-01 15:43:13,20,2188,Pending,Picked Up,51,16:03:13
+175,Garlic Bread,1,1900-01-01 10:57:07,8,1902,In Progress,Being Prepared,301,11:05:07
+176,Burger,2,1900-01-01 13:17:18,20,1255,Completed,Picked Up,242,13:37:18
+177,Peppy Paneer Pizza,3,1900-01-01 12:45:10,51,1769,Completed,Picked Up,144,13:36:10
+178,Stuffed Garlic Bread,3,1900-01-01 11:20:28,30,1327,In Progress,Being Prepared,437,11:50:28
+179,Spicy Wings,2,1900-01-01 10:36:19,24,2423,In Progress,Being Prepared,192,11:00:19
+180,Choco Lava Cake,2,1900-01-01 13:28:25,12,1094,Completed,Picked Up,136,13:40:25
+181,Pizza,1,1900-01-01 13:10:43,15,2439,Completed,Picked Up,165,13:25:43
+182,Pizza,1,1900-01-01 15:39:12,15,1997,Completed,Picked Up,101,15:54:12
+183,Chicken Supreme Pizza,1,1900-01-01 13:00:33,19,2210,Pending,In Queue,127,13:19:33
+184,Garlic Bread,2,1900-01-01 13:49:31,16,1783,Pending,Picked Up,323,14:05:31
+185,Garlic Bread,1,1900-01-01 16:16:53,8,2815,In Progress,Being Prepared,116,16:24:53
+186,Garlic Bread,1,1900-01-01 13:32:55,8,1007,Completed,Picked Up,451,13:40:55
+187,Red Pasta,2,1900-01-01 10:47:55,28,1872,In Progress,Being Prepared,161,11:15:55
+188,Burger,2,1900-01-01 16:45:36,20,2651,In Progress,Being Prepared,385,17:05:36
+189,Spicy Wings,2,1900-01-01 11:35:38,24,1073,In Progress,Being Prepared,182,11:59:38
+190,Pizza,1,1900-01-01 10:25:45,15,2773,Pending,Picked Up,97,10:40:45
+191,Spicy Wings,3,1900-01-01 16:48:00,36,1277,In Progress,Being Prepared,59,17:24:00
+192,Pizza,3,1900-01-01 12:30:12,45,1096,In Progress,Being Prepared,294,13:15:12
+193,Pizza,1,1900-01-01 14:39:16,15,1840,Completed,Picked Up,400,14:54:16
+194,Coffee,3,1900-01-01 11:54:14,15,2299,In Progress,Being Prepared,111,12:09:14
+195,Pizza,2,1900-01-01 13:08:47,30,1384,Completed,Picked Up,361,13:38:47
+196,White Pasta,3,1900-01-01 13:50:57,36,1977,Pending,Picked Up,267,14:26:57
+197,Burger,3,1900-01-01 16:26:44,30,1504,Completed,Picked Up,210,16:56:44
+198,Chicken Supreme Pizza,3,1900-01-01 11:02:54,57,2359,Completed,Picked Up,87,11:59:54
+199,Tandoori Paneer Pizza,1,1900-01-01 12:15:33,17,1477,Completed,Picked Up,77,12:32:33
+200,Pizza,1,1900-01-01 16:03:32,15,1730,Completed,Picked Up,24,16:18:32
+201,Chicken Supreme Pizza,2,1900-01-01 13:30:01,38,1425,In Progress,Being Prepared,349,14:08:01
+202,Coffee,3,1900-01-01 16:54:54,15,2089,In Progress,Being Prepared,11,17:09:54
+203,Pizza,2,1900-01-01 10:34:14,30,1725,Pending,Picked Up,119,11:04:14
+204,Coffee,1,1900-01-01 11:30:40,5,2171,Completed,Picked Up,435,11:35:40
+205,Stuffed Garlic Bread,3,1900-01-01 10:13:35,30,2983,Completed,Picked Up,203,10:43:35
+206,Garlic Bread,1,1900-01-01 14:02:11,8,1910,Pending,In Queue,271,14:10:11
+207,Coffee,2,1900-01-01 12:35:33,10,2250,Completed,Picked Up,217,12:45:33
+208,Peppy Paneer Pizza,3,1900-01-01 12:29:08,51,2431,Pending,Picked Up,177,13:20:08
+209,Burger,1,1900-01-01 11:33:53,10,2481,Completed,Picked Up,401,11:43:53
+210,Pizza,1,1900-01-01 11:00:11,15,2085,In Progress,Being Prepared,486,11:15:11
+211,Tandoori Paneer Pizza,3,1900-01-01 15:28:26,51,2826,In Progress,Being Prepared,118,16:19:26
+212,Pizza,3,1900-01-01 10:54:42,45,1047,Pending,Picked Up,373,11:39:42
+213,Choco Lava Cake,3,1900-01-01 14:04:54,18,1099,In Progress,Being Prepared,493,14:22:54
+214,Coffee,1,1900-01-01 10:42:42,5,2202,Completed,Picked Up,417,10:47:42
+215,Stuffed Garlic Bread,3,1900-01-01 14:58:50,30,1202,In Progress,Being Prepared,25,15:28:50
+216,Garlic Bread,3,1900-01-01 12:55:19,24,2983,In Progress,Being Prepared,419,13:19:19
+217,Coffee,1,1900-01-01 10:30:22,5,2920,Completed,Picked Up,219,10:35:22
+218,Burger,2,1900-01-01 12:00:18,20,1347,In Progress,Being Prepared,284,12:20:18
+219,Red Pasta,1,1900-01-01 11:23:27,14,1160,In Progress,Being Prepared,485,11:37:27
+220,Margherita Pizza,1,1900-01-01 14:01:47,16,1589,In Progress,Being Prepared,113,14:17:47
+221,White Pasta,1,1900-01-01 14:33:03,12,1085,Completed,Picked Up,372,14:45:03
+222,Pizza,3,1900-01-01 16:06:51,45,2070,Completed,Picked Up,378,16:51:51
+223,Coffee,3,1900-01-01 11:04:10,15,2276,Completed,Picked Up,352,11:19:10
+224,Veggie Supreme Pizza,2,1900-01-01 13:44:12,36,2054,In Progress,Being Prepared,222,14:20:12
+225,Spicy Wings,1,1900-01-01 16:39:41,12,1747,Pending,Picked Up,459,16:51:41
+226,Pizza,2,1900-01-01 15:47:26,30,1132,Pending,Picked Up,1,16:17:26
+227,Choco Chip,1,1900-01-01 13:59:15,7,2885,In Progress,Being Prepared,429,14:06:15
+228,Burger,2,1900-01-01 15:40:12,20,1891,In Progress,Being Prepared,263,16:00:12
+229,Burger,2,1900-01-01 12:39:21,20,1289,Pending,In Queue,9,12:59:21
+230,Garlic Bread,2,1900-01-01 15:10:14,16,2703,Completed,Picked Up,53,15:26:14
+231,Garlic Bread,2,1900-01-01 14:05:48,16,2228,Completed,Picked Up,309,14:21:48
+232,Pizza,1,1900-01-01 15:10:21,15,1083,Pending,Picked Up,103,15:25:21
+233,Garlic Bread,3,1900-01-01 12:38:05,24,2868,In Progress,Being Prepared,208,13:02:05
+234,Garlic Bread,2,1900-01-01 12:56:35,16,1250,In Progress,Being Prepared,36,13:12:35
+235,Pizza,3,1900-01-01 15:25:06,45,1567,Pending,Picked Up,128,16:10:06
+236,Burger,2,1900-01-01 14:03:02,20,1576,In Progress,Being Prepared,205,14:23:02
+237,Pizza,1,1900-01-01 11:04:17,15,2394,In Progress,Being Prepared,473,11:19:17
+238,Farmhouse Pizza,3,1900-01-01 11:12:48,54,2412,In Progress,Being Prepared,146,12:06:48
+239,Garlic Bread,2,1900-01-01 15:46:46,16,1274,Completed,Picked Up,291,16:02:46
+240,Burger,2,1900-01-01 11:23:52,20,1425,Pending,Picked Up,181,11:43:52
+241,Garlic Bread,1,1900-01-01 11:00:13,8,1591,Pending,In Queue,99,11:08:13
+242,Burger,1,1900-01-01 16:28:09,10,1194,In Progress,Being Prepared,238,16:38:09
+243,Burger,3,1900-01-01 13:39:05,30,1605,Pending,Picked Up,201,14:09:05
+244,Choco Lava Cake,2,1900-01-01 11:07:36,12,2032,Pending,Picked Up,73,11:19:36
+245,Chicken Supreme Pizza,3,1900-01-01 13:38:19,57,2658,In Progress,Being Prepared,499,14:35:19
+246,Coffee,1,1900-01-01 14:14:16,5,1583,Pending,Picked Up,6,14:19:16
+247,Pizza,2,1900-01-01 13:41:41,30,2273,Completed,Picked Up,420,14:11:41
+248,Red Pasta,2,1900-01-01 11:05:50,28,2050,In Progress,Being Prepared,442,11:33:50
+249,Coffee,1,1900-01-01 10:04:41,5,2039,In Progress,Being Prepared,330,10:09:41
+250,Veg Extravaganza Pizza,2,1900-01-01 14:29:16,40,1201,Completed,Picked Up,104,15:09:16
